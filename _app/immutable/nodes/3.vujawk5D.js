@@ -2,4 +2,5 @@ import"../chunks/DsnmJJEf.js";import"../chunks/uLADtmh0.js";import{ad as m,x as 
 <span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">load</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
     <span class="token comment">// ... magic happens here</span>
     <span class="token keyword">return</span> <span class="token punctuation">&#123;</span> posts <span class="token punctuation">&#125;</span><span class="token punctuation">;</span>
-<span class="token punctuation">&#125;</span></code>`),H(e),C(c,r)}export{$ as component};
+<span class="token punctuation">&#125;</span>
+<span class="token string">''</span>'</code>`),H(e),C(c,r)}export{$ as component};
