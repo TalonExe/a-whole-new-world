@@ -30,7 +30,7 @@
 	<section class="text-center md:text-left md:flex md:items-center md:justify-between">
 		<div>
 			<h1 class="text-4xl md:text-5xl font-extrabold tracking-tight text-primary">
-				Your Name
+				Havyn Liew
 			</h1>
 			<h2 class="mt-2 text-xl md:text-2xl text-muted-foreground">
 				A passionate developer creating modern web experiences.
